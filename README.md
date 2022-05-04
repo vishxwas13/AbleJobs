@@ -8,4 +8,4 @@
 
 
 ![Screenshot 2022-05-04 at 7 10 51 PM](https://user-images.githubusercontent.com/78073978/166694339-32e23151-6483-468b-93f5-7c6a8fb5ed50.png)
-<img width="352" alt="Screenshot 2022-05-04 at 7 12 48 PM" src="https://user-images.githubusercontent.com/78073978/166694422-7ad8b372-b293-46ea-af10-2337c20f194f.png">
+<img width="352" alt="Screenshot 2022-05-04 at 7 12 48 PM" src="https://user-images.githubusercontent.com/78073978/166694422-7ad8b372-b293-46ea-af10-2337c20f194f.png">.  API created in PHP with SQL with phpMyAdmin is dynamic and filtered with current date (only today's data will be synced to the device). 
